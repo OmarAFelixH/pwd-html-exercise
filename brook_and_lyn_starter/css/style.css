@@ -1,0 +1,30 @@
+/*
+
+## Style Hints:
+
+Body Font Size = 12px
+	 Line Height = 17px
+	 Font Family = "Times New Roman", serif
+	 Font Color = #656565
+
+Link Hover Color = #20222a
+
+GO FOR IT  :D   Don't worry about getting it exact!
+
+*/
+
+#container{
+  margin-left: 80px;
+  margin-right: 400px;
+}
+
+h6, p{
+  font-size: 12px;
+  font-family: "Times New Roman", serif;
+  line-height: 17px;
+}
+
+p{
+  color: #656565;
+
+}
