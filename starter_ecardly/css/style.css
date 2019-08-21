@@ -90,6 +90,8 @@ LAYOUT
 
 	.post {
 		/* ??  */
+    position: relative;
+    
 	}
 
 	.post-meta {
